@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'đúng đấy đmm',
     question:'Trên thế giới hơn 7 tỉ người mà sao địt mẹ m toàn nghĩ t thích nó v?',
     btnReply: 'Gửi cho mh ',
-    reply: 'tớ biết b sẽ bảo tớ thích nó nên tớ text sẵn luôn  là k =))',
+    reply: 'tớ biết b sẽ bảo tớ thích nên tớ sẽghilàtớnóinhảm =))',
     mess: ' tớ bt cậu hiểu tớ mah xD',
     messDesc: 'mãi bên nhao pạn nhớ',
     btnAccept: 'đéo :)))',
